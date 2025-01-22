@@ -1,10 +1,10 @@
-#### **Project Title**
+# **Project Title**
 
 **Factorial Program in Fortran**
 
 ---
 
-#### **Authors**
+## **Authors**
 
 1. Julia Laine Segundo
 2. Adrian Sajulga
@@ -12,13 +12,13 @@
 
 ---
 
-#### **Objective**
+### **Objective**
 
 This project demonstrates the computation of factorials using both iterative and recursive approaches in the Fortran programming language.
 
 ---
 
-#### **Program Description**
+### **Program Description**
 
 The program accepts an integer input (`n`) from the user and calculates its factorial using two methods:
 
@@ -27,7 +27,7 @@ The program accepts an integer input (`n`) from the user and calculates its fact
 
 ---
 
-#### **Features**
+### **Features**
 
 - Accepts an integer input (`n`) from the user.
 - Computes factorial iteratively and recursively.
@@ -35,7 +35,7 @@ The program accepts an integer input (`n`) from the user and calculates its fact
 
 ---
 
-#### **Usage Instructions**
+### **Usage Instructions**
 
 1. Compile the program using a Fortran compiler such as `gfortran`:
 
@@ -55,14 +55,14 @@ The program accepts an integer input (`n`) from the user and calculates its fact
 
 ---
 
-#### **References**
+### **References**
 
 - [Fortran-lang: The Modern Fortran Community](https://fortran-lang.org/)
 - [Learn X in Y Minutes: Fortran](https://learnxinyminutes.com/fortran/)
 
 ---
 
-#### **Acknowledgments**
+### **Acknowledgments**
 
 This program was developed as part of our coursework requirements. We thank the resources above for their guidance in learning and applying Fortran effectively.
 
