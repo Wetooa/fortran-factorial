@@ -13,7 +13,6 @@ PROGRAM Factorial
     PRINT *, "Iterative: ", iterativeResult
     PRINT *, "Recursive: ", recursiveResult
 
-
 CONTAINS
 
   ! Iterative
@@ -29,7 +28,8 @@ CONTAINS
   END FUNCTION IterativeFactorialFunction
 
   ! Recursive
-  RECURSIVE FUNCTION RecursiveFactorialFunction(num) RESULT(fact)
+  ! Function can be pure 
+  RECURSIVE PURE FUNCTION RecursiveFactorialFunction(num) RESULT(fact)
       IMPLICIT NONE
       INTEGER, INTENT(IN) :: num
       INTEGER :: fact
