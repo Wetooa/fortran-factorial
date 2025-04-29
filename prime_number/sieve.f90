@@ -1,7 +1,10 @@
 PROGRAM seive
+  ! IMPLICIT NONE
 
+  INTEGER(KIND=8) :: i, j; ! Use 64-bit integer for large numbers
   INTEGER, PARAMETER :: N = 1000; ! Integer with default number
   LOGICAL :: is_prime(0:N) ! NOTE: By default, Fortran arrays are 1-indexed, we add 0:N to make it 0-indexed
+  ! INTEGER :: i, j;
 
   is_prime = .TRUE. ! Initialize all as prime
   is_prime(0) = .FALSE. 
