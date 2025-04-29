@@ -1,0 +1,17 @@
+ Starting Fortran calculation...
+ Fortran progress:           10 %
+ Fortran progress:           20 %
+ Fortran progress:           30 %
+ Fortran progress:           40 %
+ Fortran progress:           50 %
+ Fortran progress:           60 %
+ Fortran progress:           70 %
+ Fortran progress:           80 %
+ Fortran progress:           90 %
+ Fortran progress:          100 %
+ Fortran Sum:    666666671666.56702     
+ Fortran Calculation Time:   0.15930000000000000       seconds
+
+real	0m0.161s
+user	0m0.160s
+sys	0m0.000s

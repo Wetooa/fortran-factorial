@@ -1,0 +1,17 @@
+Starting C++ calculation...
+C++ progress: 10%
+C++ progress: 20%
+C++ progress: 30%
+C++ progress: 40%
+C++ progress: 50%
+C++ progress: 60%
+C++ progress: 70%
+C++ progress: 80%
+C++ progress: 90%
+C++ progress: 100%
+C++ Sum: 6.66667e+11
+C++ Calculation Time: 0.171894 seconds
+
+real	0m0.174s
+user	0m0.170s
+sys	0m0.003s
